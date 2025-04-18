@@ -52,10 +52,13 @@ Use accuracy score and confusion matrix to compare models.
 All models were evaluated for prediction accuracy. The Random Forest model generally gave the best results in terms of performance on test data.
 
 📸 Screenshots
+![Screenshot 2025-04-18 145716](https://github.com/user-attachments/assets/459a5750-c3ef-4f75-992d-46c59dd3cfcb)
 
 🙏 Credits
 Dataset: Kaggle
 
 Tools: Python, Jupyter, scikit-learn, matplotlib
+
+
 
 
